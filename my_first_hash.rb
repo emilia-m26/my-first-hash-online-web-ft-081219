@@ -7,6 +7,9 @@ end
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
+  the_manifest={whake
+    
+  }
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
